@@ -4,3 +4,5 @@ I´m Tsigereda from Ethiopia. I do Content Creation,Graphics design and front en
 I also enjoy javascript and css.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ps,ai,python)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsigeredaaragaw)](https://github.com/anuraghazra/github-readme-stats)
